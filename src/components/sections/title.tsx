@@ -4,12 +4,12 @@ import DataOverView from "../data-overview";
 
 const Data = [
   {
-    icon: "/public/images/icon-communities.svg",
+    icon: "/images/icon-communities.svg",
     data: "1.4k+",
     description: "Communities Formed",
   },
   {
-    icon: "/public/images/icon-messages.svg",
+    icon: "/images/icon-messages.svg",
     data: "2.7m+",
     description: "Messages Sent",
   },
