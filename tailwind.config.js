@@ -6,6 +6,7 @@ export default {
       colors: {
         primary: "#FF52C1",
         active: "hsl(321, 100%, 78%)",
+        gray: "#808E9A",
       },
     },
     fontFamily: {
