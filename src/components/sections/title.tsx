@@ -32,7 +32,7 @@ const Title: FC = () => {
         <div className="grid md:grid-cols-2 px-16 gap-8 w-full">
           {Data.map((data) => {
             return (
-              <div className="col-span-1 justify-items-center">
+              <div className="col-span-1 justify-self-center">
                 <DataOverView data={data} />
               </div>
             );

@@ -3,6 +3,9 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
+      backgroundImage: {
+        "top-mobile": "url('./images/bg-section-top-mobile-1.svg')",
+      },
       colors: {
         primary: "#FF52C1",
         active: "hsl(321, 100%, 78%)",
